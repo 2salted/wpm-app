@@ -4,7 +4,7 @@ import { faUser, faGear } from "@fortawesome/free-solid-svg-icons";
 export default function Navbar() {
   return (
     <div className="flex justify-between flex-row">
-      <div className="text-neutral-500 text-2xl font-bold font-robotoRegular">
+      <div className="text-neutral-500 text-3xl font-bold font-robotoRegular">
         Play Online
       </div>
       <div className="flex flex-row">
