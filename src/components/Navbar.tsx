@@ -2,7 +2,7 @@ export default function Navbar() {
   return (
     <div className="">
       <div className="flex justify-start flex-row">
-        <div className="text-gray-50">play online</div>
+        <div className="text-neutral-300 text-2xl font-semibold font-robotoRegular">Play Online</div>
       </div>
     </div>
   );
