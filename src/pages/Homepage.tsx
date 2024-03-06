@@ -7,7 +7,7 @@ export default function Homepage() {
       <div className="flex justify-center h-screen">
         <div className="w-full lg:max-w-screen-xl p-8">
           <Navbar />
-          <div className="h-full flex items-center justify-center">
+          <div className="h-3/5 flex items-end justify-center font-robotoRegular">
             <TextInput />
           </div>
         </div>
